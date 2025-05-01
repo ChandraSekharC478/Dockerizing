@@ -254,8 +254,7 @@ This message shows that your installation appears to be working correctly.
 ### Clone this repository and move to example folder
 
 ```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
-cd  examples
+git clone https://github.com/ChandraSekharC478/Dockerizing.git
 ```
 
 ### Login to Docker [Create an account with https://hub.docker.com/]
